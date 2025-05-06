@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Sina%20Ebadi%20👋&fontSize=40&fontColor=F7F7F7" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Sina%20Ebadi%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 </p>
 
 <p align="center">
@@ -30,16 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=plastic&logo=phpstorm&logoColor=white)
-
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cnaebadi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnaebadi&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
