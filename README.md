@@ -36,7 +36,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/geekleakk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/sewyed"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:cnaebadii@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-6001D2?style=plastic&logo=yahoo&logoColor=white" alt="Yahoo Mail" /></a>
   <a href="https://twitter.com/geekleakk"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
