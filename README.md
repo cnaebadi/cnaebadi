@@ -15,8 +15,6 @@
 - 🌱 Learning **Laravel, Rust , Python ,TDD , DDD , RDP , and Clean Architecture**
 - 💬 Ask me about anything related to **backend development**
 - 📫 How to reach me: [cnaebadii@yahoo.com](mailto:cnaebadii@yahoo.com)
-- ⚡ Fun fact: I automate boring stuff for fun 🧠
-
 ---
 
 ### 🛠️ Technologies & Tools
