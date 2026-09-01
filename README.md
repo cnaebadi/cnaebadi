@@ -1,16 +1,20 @@
-<p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Sina%20Ebadi%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
-</p>
+<!-- header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=&fontSize=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=&fontSize=0"/>
+</picture>
 
-<p align="center">
-  <a href="https://github.com/cnaebadi"><img src="https://img.shields.io/github/followers/cnaebadi?style=social" alt="GitHub Followers"></a>
-  <a href="mailto:cnaebadii@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-informational" alt="Email"></a>
-</p>
+<div align="left">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=89B4FA&center=false&vCenter=true&width=680&lines=building+things+that+run+at+3am;linux+%3E+macos;automate+or+repeat;too+lazy+to+type+long+commands" alt="typing" />
 
-### 🔗 Connect with Me
+<br/>
 
-<p align="center">
-  <a href="https://t.me/sewyed"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:cnaebadii@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-6001D2?style=plastic&logo=yahoo&logoColor=white" alt="Yahoo Mail" /></a>
+**stack** learning whatever ends in `terminal` & `kernel`
+
+<br/>
+
+**now** shipping [`lazy`](https://github.com/cnaebadi/lazy) — shell shortcuts for devs who'd rather not type `kubectl get pods -n production` twice
+
+<br/>
+</div>
