@@ -1,9 +1,4 @@
 <!-- header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=&fontSize=0"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=&fontSize=0"/>
-</picture>
-
 <div align="left">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=89B4FA&center=false&vCenter=true&width=680&lines=building+things+that+run+at+3am;linux+%3E+macos;automate+or+repeat;too+lazy+to+type+long+commands" alt="typing" />
