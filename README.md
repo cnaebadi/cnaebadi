@@ -10,6 +10,7 @@
 <br/>
 
 **now** shipping [`lazy`](https://github.com/cnaebadi/lazy) — shell shortcuts for devs who'd rather not type `kubectl get pods -n production` twice
+and vibing with [`astro`](https://github.com/cnaebadi/vibe-astro)
 
 <br/>
 </div>
